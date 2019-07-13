@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">foodapp</string>
+
+
+
+    <string name="Rs1"> 3 DAYS \n
+        \u20B9 63  \n per meal
+    </string>
+
+    <string name="Rs2"> 7 DAYS \n
+        \u20B9 60  \n per meal
+    </string>
+
+    <string name="Rs3"> 30 DAYS \n
+        \u20B9 56 \n per meal
+    </string>
+    <string name="dailymealsweb">Dailymeals.in \n
+   Food lovers from home cooks professional
+    </string>
+
+
+
+</resources>
